@@ -1,4 +1,4 @@
-# Sonic Robo Blast 2
+# Sonic Robo Blast 2 N3DS port
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
 [![Build status](https://travis-ci.org/STJr/SRB2.svg?branch=master)](https://travis-ci.org/STJr/SRB2)
@@ -16,7 +16,7 @@
 
 ## Compiling
 
-See [SRB2 Wiki/Source code compiling](http://wiki.srb2.org/wiki/Source_code_compiling)
+Uhh, compile it the same way as a N3DS homebrew app??? (Sorry I just quickly made this in a few minutes for someone)
 
 ## Disclaimer
 Sonic Team Junior is in no way affiliated with SEGA or Sonic Team. We do not claim ownership of any of SEGA's intellectual property used in SRB2.
